@@ -29,7 +29,7 @@ Cole-Pong is a simple Pong-like game built using Python and Pygame. The game fea
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-repo/cole-pong.git
+   git clone https://github.com/mandosanti06/Cole-Pong.git
    ```
 
 2. Install dependencies (if Pygame is not already installed):
